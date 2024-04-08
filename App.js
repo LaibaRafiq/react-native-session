@@ -1,4 +1,3 @@
-// App.js
 import React, { useState } from 'react';
 import { SafeAreaView, StyleSheet, Text, View, StatusBar, FlatList, Image, TouchableOpacity,TextInput } from 'react-native';
 import CustomList from './components/listComponent';
